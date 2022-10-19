@@ -1,4 +1,4 @@
-import Classes.ListNode;
+import JavaClasses.ListNode;
 public class leet206 {
     public ListNode reverseList(ListNode head) {
         if(head==null || head.next == null)

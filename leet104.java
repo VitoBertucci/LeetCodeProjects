@@ -1,4 +1,4 @@
-import Classes.TreeNode;
+import JavaClasses.TreeNode;
 public class leet104 {
 
     TreeNode root;

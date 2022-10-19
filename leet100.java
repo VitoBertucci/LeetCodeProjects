@@ -1,4 +1,4 @@
-import Classes.TreeNode;
+import JavaClasses.TreeNode;
 public class leet100 {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if(p == null && q == null) {

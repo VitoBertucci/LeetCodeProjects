@@ -1,4 +1,4 @@
-package Classes; 
+package JavaClasses; 
 public class TreeNode {
     public int val;
     public TreeNode left;
