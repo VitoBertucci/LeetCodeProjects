@@ -17,6 +17,7 @@ min bound must either be:
 this tests for a lowest negative bound
 */
 
+
 public class leet152 {
     public static int maxProdSubArray(int[] nums) {
         int p = nums[0], max = nums[0], min = nums[0]; 
