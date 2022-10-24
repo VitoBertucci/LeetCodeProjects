@@ -1,5 +1,7 @@
+package BinaryTrees;
 import JavaClasses.TreeNode;
-public class leet98 {
+//Validate Binary Search Tree
+public class ValidateBST {
 
     public boolean isValidBST(TreeNode root) {
         return isValid(root, Long.MIN_VALUE, Long.MAX_VALUE);

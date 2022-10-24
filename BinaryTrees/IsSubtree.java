@@ -1,5 +1,7 @@
+package BinaryTrees;
 import JavaClasses.TreeNode;
-public class leet572 {
+//Subtree of Another Tree
+public class IsSubtree {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if(p == null && q == null) {
             return true;

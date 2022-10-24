@@ -1,5 +1,5 @@
 package JavaClasses;
-
+//Node for Linked List
 public class ListNode {
     
         public int val;
