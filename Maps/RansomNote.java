@@ -1,5 +1,6 @@
 package Maps;
 import java.util.HashMap;
+//leetcode383
 
 public class RansomNote {
     public static boolean canConstruct(String ransomNote, String magazine) {
