@@ -8,7 +8,7 @@ public class MaxDepth {
         return 0;
         int leftDepth = maxDepth(root.left);
         int rightDepth = maxDepth(root.right);
-        int bigger = Math.max(leftDepth, rightDepth);
+        int bigger = Integer.max(leftDepth, rightDepth);
         return bigger+1;
     }
 }
